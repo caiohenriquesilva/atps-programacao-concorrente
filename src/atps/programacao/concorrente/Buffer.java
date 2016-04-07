@@ -10,7 +10,7 @@ package atps.programacao.concorrente;
  * @author caiohenrique
  */
 public class Buffer {
-    private int valor;
+    private int valor = 5000;
 
     public int getValor() {
         return valor;
